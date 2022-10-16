@@ -26,7 +26,7 @@ Back:
 
 ## Launch
 
-Back: https://github.com/jossbnd/my-moviz-backend
+Back: https://github.com/jossbnd/my-moviz-backend  
 Front: https://github.com/jossbnd/my-moviz-frontend
 
 Project is deployed on Vercel, you can visit it on: https://my-moviz-frontend-w7x2.vercel.app/

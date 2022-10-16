@@ -11,7 +11,8 @@ API: [The Movie Database](https://www.themoviedb.org/)
 
 ## Objectives
 
-The objectives were to use basics features of React such as States, Effect Hooks, Components, Props and Inverse Data Flow.
+Front: the objectives were to use basics features of React such as States, Effect Hooks, Components, Props and Inverse Data Flow.  
+Back: the aim was to get familiar with the Express framework, MVC architecture, editing routes to request web services.  
 
 ## Technologies
 
